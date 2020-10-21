@@ -1,7 +1,10 @@
-### Hi I'm Mohamed 👋 👨🏻‍💻
+<h1 align="center">Hi I'm Motyim 👋</h1>
 
-[![twitter badge](https://img.shields.io/badge/twitter-@motyim-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/motyim)
-[![dev.to badge](https://img.shields.io/badge/linkedin-motyim-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/motyim)
+<p align="center">
+    <a href="https://twitter.com/motyim"><img src="https://img.shields.io/badge/twitter-@motyim-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/motyim"><img src="https://img.shields.io/badge/linkedin-motyim-%230177B5?style=flat&logo=linkedin"/></a>
+  </p>
+  <img src="https://github.com/motyim/motyim/blob/master/coder.png" align="right" width="25%"/>
 
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Java, Spring, Angular, Testing and AWS.
 
